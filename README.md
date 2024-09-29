@@ -2,20 +2,22 @@
 
 ## Criando um Sistema Bancário com Python
 
-### Desafio de projeto da DIO:
+### Desafio de projeto da DIO e  Novas Funcionalidades Adicionadas
 
-Novas Funcionalidades Adicionadas
-Conta Poupança:
+### Conta Poupança :
 
 Uma nova classe ContaPoupanca foi adicionada, com uma taxa de juros padrão que pode ser aplicada ao saldo.
-Menu de Criação de Conta:
+
+### Menu de Criação de Conta:
 
 O usuário pode agora escolher entre criar uma conta corrente ou uma conta poupança.
-Listagem de Contas:
+
+### Listagem de Contas:
 
 A função de listagem agora exibe o saldo de cada conta de forma mais clara.
-Próximos Passos
-Persistência de Dados: Você pode implementar o armazenamento de dados usando JSON ou SQLite para manter os dados entre execuções.
-Validação de Dados: Implementar validações mais robustas ao criar contas e realizar transações.
-Interface Gráfica: Considerar o uso de uma biblioteca como Tkinter ou PyQt para uma interface gráfica mais amigável.
-Esse sistema agora está mais próximo de um aplicativo bancário funcional, mas ainda pode ser expandido com funcionalidades e melhorias conforme necessário! 
+
+## Próximos Passos
+### Persistência de Dados: Você pode implementar o armazenamento de dados usando JSON ou SQLite para manter os dados entre execuções.
+### Validação de Dados: Implementar validações mais robustas ao criar contas e realizar transações.
+### Interface Gráfica: Considerar o uso de uma biblioteca como Tkinter ou PyQt para uma interface gráfica mais amigável.
+
