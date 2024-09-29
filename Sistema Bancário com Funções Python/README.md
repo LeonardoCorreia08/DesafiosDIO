@@ -10,7 +10,7 @@ Código criado para utilização junto a plataforma da Digital Innovation One
 
 ### Desafio de projeto da DIO, onde foi solicitado criar um applicativo bancário :
 
-### Com Novas Funcionalidades Adicionadas
+### Aplicação de Novas Funcionalidades Adicionadas
 
 ### Conta Poupança:
 
