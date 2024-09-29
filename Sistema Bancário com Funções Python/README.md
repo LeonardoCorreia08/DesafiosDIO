@@ -21,6 +21,6 @@ A função de listagem agora exibe o saldo de cada conta de forma mais clara.
 
 # Próximos Passos
 
-### Persistência de Dados: Você pode implementar o armazenamento de dados usando JSON ou SQLite para manter os dados entre execuções.
+### Persistência de Dados: Implementar o armazenamento de dados usando JSON ou SQLite para manter os dados entre execuções.
 ### Validação de Dados: Implementar validações mais robustas ao criar contas e realizar transações.
 ### Interface Gráfica: Considerar o uso de uma biblioteca como Tkinter ou PyQt para uma interface gráfica mais amigável.
