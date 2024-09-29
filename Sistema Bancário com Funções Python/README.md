@@ -4,7 +4,7 @@ Código criado para utilização junto a plataforma da Digital Innovation One
 
 <p align="center"><img src="./logo.png" width="500"></p>
 
-# Desafio de Projeto DIO NTT
+# Desafio NTT
 
 ## Criando um Sistema Bancário com Python
 
