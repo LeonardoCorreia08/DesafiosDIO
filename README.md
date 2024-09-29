@@ -2,12 +2,20 @@
 
 ## Criando um Sistema Bancário com Python
 
-### Desafio de projeto da DIO, onde foi solicitado criar um applicativo bancário com as seguintes especificidades:
+### Desafio de projeto da DIO:
 
-✅ Código Python com menu de quatro opções (Depositar, Sacar, Extrato, Fim/Sair) observando as seguintes regras:
+Novas Funcionalidades Adicionadas
+Conta Poupança:
 
-✅ Depósisitos = há uma verificação, onde não permite depósitos negativos;
+Uma nova classe ContaPoupanca foi adicionada, com uma taxa de juros padrão que pode ser aplicada ao saldo.
+Menu de Criação de Conta:
 
-✅ Saques = Só podem ocorrer 03 saques, Há um limite de R$500,00 por saque, o valor sacado não pode ser maior que o valor do saldo;
+O usuário pode agora escolher entre criar uma conta corrente ou uma conta poupança.
+Listagem de Contas:
 
-✅ Extrato = Exibir todos os depósitos e saques efetuados, informando o total disponível na conta ao final.
+A função de listagem agora exibe o saldo de cada conta de forma mais clara.
+Próximos Passos
+Persistência de Dados: Você pode implementar o armazenamento de dados usando JSON ou SQLite para manter os dados entre execuções.
+Validação de Dados: Implementar validações mais robustas ao criar contas e realizar transações.
+Interface Gráfica: Considerar o uso de uma biblioteca como Tkinter ou PyQt para uma interface gráfica mais amigável.
+Esse sistema agora está mais próximo de um aplicativo bancário funcional, mas ainda pode ser expandido com funcionalidades e melhorias conforme necessário! 
